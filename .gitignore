@@ -1,5 +1,6 @@
 driving/local_settings.py
 driving/get_random_secret_key.py
 driving/.zprofile
+driving/settings.py
 .zprofile
 db.sqlite3
